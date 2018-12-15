@@ -170,9 +170,9 @@ while True:
 
     if (pred == "ONE"):
         forward(5)
-    elif (MINPUT == "TWO"):
+    elif (pred == "TWO"):
         Fright(5)
-    elif (MINPUT == "FIVE"):
+    elif (pred == "FIVE"):
         Fleft(5)
     else:
         stop(0)
