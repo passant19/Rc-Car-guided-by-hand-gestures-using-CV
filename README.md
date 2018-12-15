@@ -45,7 +45,7 @@ The platforms and libraries needed:
  - matplotlib
  - RPi.GPIO
 ## Project Video
-
+[Youtube]https://youtu.be/MtlcXneFBGw
 
 ## Contributions
 The dataset and the Deep-learning algorithm for image processing is used based on https://github.com/jgv7/CNN-HowManyFingers
